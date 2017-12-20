@@ -12,9 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Ujumine on heaa viis lõõgastuda ja kogu oma negatiivset energiat valada vette. Pärast ujumist inimesed tulevad välja nagu uued ja värsked. Ujumine on hea lihaste arengu jaoks. Näiteks pikkaajalistel ujujatel on hästi arenendus õlad, selja ja jala lihased."
-        android:textSize="15dp"
-        android:layout_absoluteX="0dp"
-        android:layout_absoluteY="5dp" />
+        android:textSize="15dp" />
     <TextView
         android:id="@id/TextView"
         android:layout_width="match_parent"
@@ -43,9 +41,6 @@
         android:layout_alignParentStart="true"
         android:layout_below="@+id/Pildid"
         android:text="Link"/>
-
-
-
 
 
 

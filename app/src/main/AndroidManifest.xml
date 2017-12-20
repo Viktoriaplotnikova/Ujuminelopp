@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".display_message"></activity>
+        <activity android:name=".display_message" />
+        <activity android:name=".pildid" />
     </application>
 
 </manifest>

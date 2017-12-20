@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Ujumine</string>
+    <string name="back" />
 </resources>

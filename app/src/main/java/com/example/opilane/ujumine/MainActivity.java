@@ -29,10 +29,10 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
 
             }
-        }};
-    }
+        });
+}
     public void Pildid(View view) {
-        Intent intent= new Intent(MainActivity.this,PildiActivity.class );
+        Intent intent= new Intent(MainActivity.this,pildid.class );
         startActivity(intent);
     }
 }
